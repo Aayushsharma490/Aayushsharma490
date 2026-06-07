@@ -1,39 +1,41 @@
 <h1 align="center">Hi 👋, I'm Aayush Sharma</h1>
 
 <h3 align="center">
-AI/ML Engineer | Innovator | Hackathon Enthusiast
+AI/ML Engineer • Hackathon Winner • Innovator
 </h3>
 
 <p align="center">
-Building AI-powered solutions that create real-world impact 🚀
+Building AI-powered solutions for real-world impact 🚀
+</p>
+
+<p align="center">
+<a href="https://aayushsharma2005.netlify.app">Portfolio</a> •
+<a href="https://github.com/Aayushsharma490">GitHub</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE (AI) Student at Geetanjali Institute of Technical Studies, Udaipur
+🎓 B.Tech CSE (AI)
 
-🤖 Passionate about:
-- Artificial Intelligence
+🤖 AI/ML Enthusiast
+
+🌱 Exploring:
 - Machine Learning
+- Deep Learning
 - Computer Vision
 - Generative AI
-- AI Product Development
-
-🌱 Currently exploring:
-- Large Language Models (LLMs)
-- MLOps
 - AI Agents
-- Startup Building
+- MLOps
 
 ---
 
 ## 🏆 Achievements
 
-🥇 Shankara Global Hackathon Winner 2026
+🏆 Shankara Global Hackathon Winner 2026
 
-🥇 Tech BIP Winner 2026
+🏆 Tech BIP Winner 2026
 
 🌍 Top 25 Global Finalist — MUJ HackX 3.0
 
@@ -47,51 +49,55 @@ Building AI-powered solutions that create real-world impact 🚀
 
 ## 💻 Tech Stack
 
-### Languages
-- Python
-- C++
-- SQL
-
-### AI/ML
-- Scikit-Learn
-- TensorFlow
-- Pandas
-- NumPy
-- OpenCV
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,mysql,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayushsharma490&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aayushsharma490&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsharma490&layout=compact)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushsharma490&theme=tokyonight" />
+</p>
 
----
-
-## 🎯 2026 Goals
-
-- Build impactful AI products
-- Contribute to open-source projects
-- Publish AI research & projects
-- Launch my own AI startup
-
----
-
-## 📫 Connect With Me
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: your-linkedin-url
-
-🌐 Portfolio: Coming Soon
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushsharma490&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ "Innovation happens when technology meets purpose."
+## 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aayushsharma490&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayushsharma490&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+🌍 Portfolio:
+https://aayushsharma2005.netlify.app
+
+📧 Email: your-email@gmail.com
+
+💼 LinkedIn: your-linkedin-link
+
+---
+
+### ⚡ Quote
+
+"Turning ideas into impactful innovations."
